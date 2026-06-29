@@ -1,5 +1,4 @@
 version: "3.8"
-# Updated for Jenkins CI/CD webhook demo
 
 services:
   nginx:
@@ -55,4 +54,3 @@ services:
 
 networks:
   notes-app-nw:
-# Minor update to trigger Jenkins pipeline
